@@ -6,7 +6,7 @@
   flex-direction: row;
   justify-content: flex-start;
   color: #606060;
-  margin:  48px 0px 0px 93px;
+  margin: 48px 0px 0px 93px;
 }
 
 .disc {
@@ -24,8 +24,29 @@
   text-transform: uppercase;
 }
 
-.nav>p {
+.nav > p {
   margin-right: 54px;
 }
 
+.search {
+  width: 349px;
+  height: 54px;
+  background: #ededed;
+  border-radius: 10px;
+}
 
+.lupaAndText {
+  width: 21.509px;
+  height: 21.509px;
+  flex-shrink: 0;
+}
+
+.searchArt {
+  color: #c2c3cb;
+  font-family: Poppins;
+  font-size: 15.711px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 117.5%; /* 18.461px */
+  letter-spacing: -0.314px;
+}
